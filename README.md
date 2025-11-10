@@ -73,7 +73,56 @@ hayatımmmm
     <div class="card"><p><span class="heart">❤️</span>Seninle her an bir şiir... 🌸💋🫶</p></div>
     <div class="card"><p><span class="heart">💖</span>Kalbim sadece senin melodinle çarpıyor. 🌹🫶</p></div>
     <div class="card"><p><span class="heart">💌</span>Gözlerin bir yıldız, ruhum onun ışığında. 🌟🫶</p></div>
-</div>
+</div> <div class="card"> 
+<div class="card"><p><span class="heart">💌</span>Gözlerin bir yıldız, ruhum onun ışığında. 🌟</p></div>
+<div class="card"><p><span class="heart">💌</span>Sesin bir melodi, kalbim onun ritminde dans eder. 🎶</p></div>
+<div class="card"><p><span class="heart">💌</span>Gülüşün bahar gibi, içimde çiçekler açtırır. 🌸</p></div>
+<div class="card"><p><span class="heart">💌</span>Varlığın bir şiir, her dizede sana aşık olurum. 📖</p></div>
+<div class="card"><p><span class="heart">💌</span>Kalbinin sesi, en güzel duamdır gecelere. 🌙</p></div>
+<div class="card"><p><span class="heart">💌</span>Bakışların bir kıvılcım, içimde sonsuz bir yangın. 🔥</p></div>
+<div class="card"><p><span class="heart">💌</span>Adını her nefeste sevda gibi içime çekerim. 💨</p></div>
+<div class="card"><p><span class="heart">💌</span>Seninle zaman durur, kalbim sadece seni sayar. ⏳</p></div>
+<div class="card"><p><span class="heart">💌</span>Hayalin bir masal, her gece onunla uyurum. 💤</p></div>
+<div class="card"><p><span class="heart">💌</span>Dokunuşun bir dua, ruhum onunla huzur bulur. 🙏</p></div>
+<div class="card"><p><span class="heart">💌</span>Seninle her an, sonsuzluğun tadı gibi. ♾️</p></div>
+<div class="card"><p><span class="heart">💌</span>Kalbim senin adını ezberlemiş, her atışta seni söyler. ❤️</p></div>
+<div class="card"><p><span class="heart">💌</span>Geceler senin hayalinle aydınlanır. 🌌</p></div>
+<div class="card"><p><span class="heart">💌</span>Bir gülüşünle bahar olur içimde. 🌷</p></div>
+<div class="card"><p><span class="heart">💌</span>Seninle susmak bile şiir gibi. 🤫</p></div>
+<div class="card"><p><span class="heart">💌</span>Adın, kalbimin en güzel melodisi. 🎵</p></div>
+<div class="card"><p><span class="heart">💌</span>Seninle geçen zaman, cennetten bir parça. 🕊️</p></div>
+<div class="card"><p><span class="heart">💌</span>Bir bakışınla dünyam değişir. 🌍</p></div>
+<div class="card"><p><span class="heart">💌</span>Seninle her şey daha anlamlı. ✨</p></div>
+<div class="card"><p><span class="heart">💌</span>Kalbim seni görünce şiir yazmaya başlar. 🖋️</p></div>
+<div class="card"><p><span class="heart">💌</span>Seninle yürüdüğüm yollar, yıldızlarla döşeli. 🚶‍♀️🌠</p></div>
+<div class="card"><p><span class="heart">💌</span>Bir kelimenle içim huzur bulur. 🧘‍♂️</p></div>
+<div class="card"><p><span class="heart">💌</span>Senin adın, dualarımın en güzel cümlesi. 🙌</p></div>
+<div class="card"><p><span class="heart">💌</span>Seninle her sabah, umutla başlar. 🌅</p></div>
+<div class="card"><p><span class="heart">💌</span>Gözlerin, kalbimin pusulası. 🧭</p></div>
+<div class="card"><p><span class="heart">💌</span>Seninle geçen her saniye, ömre bedel. ⏱️</p></div>
+<div class="card"><p><span class="heart">💌</span>Bir dokunuşun, bin şiire ilham. ✍️</p></div>
+<div class="card"><p><span class="heart">💌</span>Seninle susmak bile anlam taşır. 🔇</p></div>
+<div class="card"><p><span class="heart">💌</span>Kalbim seni görünce dans eder. 💃</p></div>
+<div class="card"><p><span class="heart">💌</span>Seninle her an, bir mucize gibi. 🌈</p></div>
+<div class="card"><p><span class="heart">💌</span>Bir gülüşünle karanlık aydınlanır. 💡</p></div>
+<div class="card"><p><span class="heart">💌</span>Seninle konuşmak, kalbimle sohbet etmek gibi. 🗣️</p></div>
+<div class="card"><p><span class="heart">💌</span>Senin adın, içimde yankılanan sevda. 🔔</p></div>
+<div class="card"><p><span class="heart">💌</span>Kalbim seninle tamamlanır. 🧩</p></div>
+<div class="card"><p><span class="heart">💌</span>Seninle her gün, bir şiir gibi başlar. 📜</p></div>
+<div class="card"><p><span class="heart">💌</span>Gözlerin, içimdeki huzurun aynası. 🪞</p></div>
+<div class="card"><p><span class="heart">💌</span>Seninle olmak, yıldızlara dokunmak gibi. 🌠</p></div>
+<div class="card"><p><span class="heart">💌</span>Bir kelimen, bin tebessüm. 😊</p></div>
+<div class="card"><p><span class="heart">💌</span>Seninle geçen zaman, kalbimin en değerli hazinesi. 💎</p></div>
+<div class="card"><p><span class="heart">💌</span>Seninle susmak bile anlam taşır. 🤍</p></div>
+<div class="card"><p><span class="heart">💌</span>Seninle her an, bir şiirin içinde yaşamak gibi. 🖼️</p></div>
+<div class="card"><p><span class="heart">💌</span>Kalbim seninle her gün yeniden doğar. 🌞</p></div>
+<div class="card"><p><span class="heart">💌</span>Seninle olmak, rüya görmeden uyumak gibi. 🛌</p></div>
+<div class="card"><p><span class="heart">💌</span>Bir bakışın, bin kelimeden daha derin. 👁️</p></div>
+<div class="card"><p><span class="heart">💌</span>Seninle her şey daha güzel. 🌺</p></div>
+<div class="card"><p><span class="heart">💌</span>Kalbim seninle şiir yazmayı öğrendi. ✒️</p></div>
+<div class="card"><p><span class="heart">💌</span>Seninle olmak, hayatın en güzel tanımı. 📚</p></div>
+<div class="card"><p><span class="heart">💌</span>Bir gülüşün, içimdeki tüm fırtınaları dindirir. 🌪️</p></div>
+<div class="card"><p><span class="heart">💌</span>Seninle her an, bir sevda masalı. 🧚‍♀️</p></div>
 
 <script>
     const emojis = ['❤️','💋','🌸','🌹','💌','🫶'];
